@@ -1,6 +1,3 @@
-Belajar HTML
-Belajar CSS Dasar, Belajar CSS Layouting dan Belajar CSS 3
-Belajar JS Dasar
 Belajar DOM
 Belajar github, php, Mysql, flask
 Membuat Daskboard Admin
